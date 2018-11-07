@@ -8,7 +8,7 @@ html, body {
 /*********************************************************************************/
 #menu {
     background: #171717;
-    height: 110px;
+    height: 120px;
     text-align:right;
 
 }
@@ -25,12 +25,12 @@ html, body {
 }
 #menu p {
     display: inline-block;
-    padding: 0px 50px ;
+    padding: 0px 30px ;
     text-transform: uppercase;
     color: #FFF;
     font-family :"Helvetica" ;
     font-weight: bold;
-		font-size: 18px;
+		font-size: 15px;
 }
 #menu li:last-child {
     border-right:none;
